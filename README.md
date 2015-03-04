@@ -9,3 +9,5 @@ If you are interested in helping develop jQuery UI, you are in the right place.
 To discuss development with team members and the community, visit the [Developing jQuery UI Forum](http://forum.jquery.com/developing-jquery-ui) or in #jquery on irc.freednode.net.
 
 ## This repo only holds precompiled files.
+
+### This branch is a simple edit of the bower.json main attr tag so my build injects the required files for the smoothness theme.
